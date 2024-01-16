@@ -10,3 +10,4 @@ User-friendly Interface: Intuitive interface for users to interact with the syst
 Requirements
 Make sure you have MATLAB installed on your system. Additionally, the project may require specific toolboxes for image processing and computer vision. Check the requirements.txt or equivalent file for details.
 use training and test image 
+There is two kind of code . one for using MATLAB inbuilt function and other is from scratch
